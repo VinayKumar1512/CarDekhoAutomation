@@ -1,0 +1,18 @@
+[
+  { "CarName": "Maruti Swift", "Price": "Rs.5.85 - 8.67 Lakh*" },
+  { "CarName": "Maruti Vitara Brezza", "Price": "Rs.7.61 - 11.19 Lakh" },
+  { "CarName": "Maruti Ertiga", "Price": "Rs.7.96 - 10.69 Lakh" },
+  { "CarName": "Maruti Baleno", "Price": "Rs.5.99 - 9.45 Lakh*" },
+  { "CarName": "Maruti Dzire", "Price": "Rs.5.99 - 9.08 Lakh*" },
+  { "CarName": "Maruti Wagon R", "Price": "Rs.4.93 - 6.45 Lakh*" },
+  { "CarName": "Maruti Alto 800", "Price": "Rs.3.15 - 4.82 Lakh*" },
+  { "CarName": "Maruti Celerio", "Price": "Rs.4.65 - 6.00 Lakh*" },
+  { "CarName": "Maruti XL6", "Price": "Rs.9.98 - 11.86 Lakh" },
+  { "CarName": "Maruti S-Presso", "Price": "Rs.3.78 - 5.43 Lakh*" },
+  { "CarName": "Maruti S-Cross", "Price": "Rs.8.59 - 12.56 Lakh" },
+  { "CarName": "Maruti Ciaz", "Price": "Rs.8.72 - 11.71 Lakh" },
+  { "CarName": "Maruti Ignis", "Price": "Rs.5.10 - 7.47 Lakh*" },
+  { "CarName": "Maruti Eeco", "Price": "Rs.4.30 - 5.60 Lakh*" },
+  { "CarName": "Maruti Celerio X", "Price": "Rs.5.11 - 5.91 Lakh*" },
+  { "CarName": "Maruti Swift Dzire Tour", "Price": "Rs.5.76 - 6.40 Lakh*" }
+]
